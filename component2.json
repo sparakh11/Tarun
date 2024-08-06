@@ -1,6 +1,6 @@
 {
     "name": "Tarun1",
-    "semanticVersion": "1.1.4",
+    "semanticVersion": "1.1.5",
     "description": "An example component that builds with github with Tarun",
     "platform": "Linux",
     "supportedOsVersions": "Amazon Linux 2",
