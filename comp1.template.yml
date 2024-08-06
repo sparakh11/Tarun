@@ -14,7 +14,7 @@
 # OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 # SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 name: HelloWorldLinux
-description: This is hello world testing document.
+description: This is hello world testing document with Tarun.
 schemaVersion: 1.0
 
 phases:
